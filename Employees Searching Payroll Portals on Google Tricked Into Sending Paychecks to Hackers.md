@@ -22,3 +22,4 @@ The malicious login attempts was seen originating from home office routers and o
 
 The detection comes from uncovering a phishing campaign using the W3LL phishing kit. This again shows the importance of good phishing detection capabilities and awareness.
 
+**https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html**
