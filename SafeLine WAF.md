@@ -41,3 +41,5 @@ It uses **rate limiting** to cap request frequency and mitigate abuse. For sudde
 #### Authentication Challenges
 
 Designed with the Zero-Trust principle --never trust, always verify-- SafeLine offers configurable visitor authentication as a built-in identity gateway supporting modern authentication protocols such as OIDC and integrating with popular identity providers. On top of that, SSO is supported all for free.
+
+**https://thehackernews.com/2025/05/safeline-waf-open-source-web.html**
