@@ -35,9 +35,3 @@ This joined action is designed to slow the speed at which these threat actors ca
 **https://www.cybersecuritydive.com/news/microsoft-takedown-lumma-stealer/748727/**
 
 **https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/**
-
-
-
-### IoCs
-
-| User-Agent| TeslaBrowser/5.5
